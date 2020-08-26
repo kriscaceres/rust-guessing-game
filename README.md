@@ -1,3 +1,3 @@
-**Rust or Bust**
+**Rust guessing game**
 
-Killing two birds with one stone by learning rust and git. Desktop runs Windows 10, laptop runs LM20. 
+I implemented the guessing game in "the book" by the official Rust team.
